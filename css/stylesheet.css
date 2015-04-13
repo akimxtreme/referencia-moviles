@@ -1,0 +1,8 @@
+.moviles {
+	position:absolute;
+	z-index:1;
+	background-color:#FFF;
+	opacity:0.9;
+	width: 270px;
+	border: 1px solid #CCC;
+}
